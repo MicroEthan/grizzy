@@ -36,6 +36,6 @@ basic.forever(function () {
             # . . . #
             . # # # .
             `)
-        Kitronik_Move_Motor.move(Kitronik_Move_Motor.DriveDirections.Forward, 50)
+        Kitronik_Move_Motor.move(Kitronik_Move_Motor.DriveDirections.Forward, 35)
     }
 })
